@@ -97,6 +97,20 @@ flowchart
        end
 	end
 ```
+## 1.4 Internet and Networking
+### Protocols
+*Protocols provide an agreed set of rules to allow networked devices to communicate. Network protocols are important as programs where a programmer invents their own protocol would be unable to communicate with other programs.*
+
+> [!tip]- Protocols Summary
+> IMAP allows messages to be _transferred and downloaded_ between computer systems via the internet.
+> SMTP allows messages to be _sent_ between computers
+> TCP is the protocol that allows packets to be sent and received between computer systems
+> HTTP is the protocol that transfers multimedia web pages over the Internet.
+> DHCP Assigns a (dynamic) IP addresses to devices on a network.
+> FTP is for the exchange of large files over the Internet/network
+> UDP is sending datagrams across a network with very few error recovery services.
+
+> [!tip] The Internet -- The Internet is a world-wide communications infrastructure. A network of networks.
 
 # Topic 8
 ## The Operating System.
