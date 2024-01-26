@@ -1,3 +1,4 @@
+# Topic 1
 ## 1.1 Hardware
  - Input
    - Any device that can convert analogue information from people to digital information for computers.
@@ -97,6 +98,7 @@ flowchart
 	end
 ```
 
-## 1.8 The Operating System.
+# Topic 8
+## The Operating System.
 
 
