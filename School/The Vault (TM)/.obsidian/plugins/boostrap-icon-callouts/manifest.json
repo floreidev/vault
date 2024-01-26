@@ -1,0 +1,11 @@
+{
+	"id": "bootstrap-icon-callouts",
+	"name": "Bootstrap Icon Callouts",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Makes some CSS for Boostrap Icons.",
+	"author": "florei",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

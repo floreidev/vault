@@ -1,0 +1,16 @@
+
+- [ ] Screen Shader
+	- [ ] Full screen, hidden, always on top, transparent window
+	- [ ] Get colour at pixel on screen
+	- [ ] Apply transparent overlay
+- [ ] Story
+	- [ ] General outline
+	- [ ] Structure
+	- [ ] Chapterise
+	- [ ] Write
+- [ ] Choice Selector
+- [ ] Save Feature
+	- [ ] Save Progress
+	- [ ] Start Menu
+- [ ] Backend Processing
+- [ ] Cutscene

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "smallmermaid"
+  ]
+}
