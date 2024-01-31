@@ -334,3 +334,14 @@ graph
     E-->A
 ```
 
+## Reasons why young people adopt deviant behaviour
+```mermaid
+mindmap
+  root((Reasons young people vadopt deviant behaviours))
+    Poverty
+    Resisting Economic Pressure
+    Personal Problems
+    Aesthetic Appeal
+    Labelling
+    Lack of third space
+```
