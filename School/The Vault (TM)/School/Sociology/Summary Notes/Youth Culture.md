@@ -323,6 +323,7 @@ Found that ‘acting Black’ was set in opposition to ‘acting White’ and si
 He found that the African-Caribbean students were subjected to institutional racism, to which they reacted with anti-school attitudes and behaviour.
 
 ## Moral Panics
+A moral panic occurs when the media exaggerates certain deviant behaviours in order to garner more attention, but in doing so cause social outrage against a deviant group.
 > Leslie Wilkins first showed the Deviance amplification spiral, looking like the following. 
 
 ```mermaid
@@ -339,9 +340,85 @@ graph
 mindmap
   root((Reasons young people vadopt deviant behaviours))
     Poverty
-    Resisting Economic Pressure
     Personal Problems
     Aesthetic Appeal
     Labelling
     Lack of third space
+    Rebellion & Experomentation
+    Protest
+    Lack of Education
+    Peer Pressure
+    Crisis of Masculinity
+    Achieved Identity
+    Belonging
 ```
+
+## Youth Gangs
+### Characteristics
+ - Territory
+ - Loyalty
+   - Rites of passage - they have to pass a test to join the gang
+ - Heirarchy
+   - Venkatesh's Gang Leader for a Day
+ - Delinquent Subculture
+   - Gangs have different norms and values to wider society
+ - Family & Belonging
+   - Integration & concensus within the community, protection
+ - Shared norms and values
+   - Some gangs are not particularlly criminal (Milltown Boys, 1997)
+
+### Causes
+> [!tip]- Croward and Onlin (1960)
+> Identified three different types of criminal youth gangs:
+> Crime-oriented gangs, influenved by adult proffesional criminals
+> Conflict-oreinted gangs - status frustration, causes people to get status through gangs
+> Retreatist - Contempt for mainstream society -- magical solution
+
+> [!tip]- Hirschi (1969)
+> Pointed out most delinquent boys become law abiding citizens in adulthood.
+
+> [!tip]- Shay and McKay (1969)
+> More crime in cities -- concentrated areas of poverty & deprevation (status frustration).
+> Social disogranisation and local norms value crime -- underclass (Murray)
+
+> [!tip] Miller (1958)
+> Focal concerns were 'staying out of trouble', crime caused norms and values held by young men (Malestream view)
+> Teddyboys valued being witty and aggressive
+> Thrillseeking (edgework)
+> Need for control (class frustration)
+
+
+### Studies in the United Kingdom
+
+> [!tip]- Howard Parker (1974)
+> A View from the Bots describe a culture in Liverpool where boys are not looking for trouble, but won't back away from it
+
+> [!tip]- Willmott (1966)
+> Adolescent boys in East London found young men in boring jobs who use deviance to get some excitement in life (edgework)
+
+> [!tip]- Home Office Report (2008)
+> Suggested that youth gangs were linked to problems of urban violence and rising rates of weapon use.
+
+> [!tip]- Modern UK Studies
+> Masculine identity - Many researchers view the existnce of gangs and aggresivley deviant youth culture as linked to the crisis of masculinity
+> Education failure - Pitts (2008) suggests that young men find respect in gangs and in street culture (status frustration)
+> Style and resistance - Echoes CCCS which suggests that gang related activity resis at times ofe conomic stress. (skinheads) BUT AO3 EMA & FSM & Scholarships allow lower privellege children to counterract economic pressure.
+
+### The Underclass
+> Murray scapegoated single mothers and 'the underclass' (those under the working clas) as the cause of crime (links to status frustration)
+
+## Status Frustration
+%% TODO: Summarise notes %%
+> Delinquent a young person who has a tendencies to commit more crime
+> Strain theory the pressure people face which leads them to commit crime
+> Working class boys hold the same success goals but cannot reach them.
+> Educational failure and poor employment prospects lead to feelings of failure and inadequecies
+> Cultural deprevation results in working class lack of educational success
+> Status frustation is the sense of frustration arising of groups or people due to their lack of status in society.
+> Paul WIllis found similar results in learning to labour
+> Working class students will react to typical failure by breaking rules and being deviant
+> Reaction formation -- when young people reject norms and values of wider society, and instead turn to other, delinquent norms and values
+> Respect is gained through delinquent acts instead of economic success in wider society.
+> Cohen -- Social class, status frustration, cultural deprevation cause delinquency
+> Marxists argue that they do not share the same success goals and it cannot be assumed that they do.
+> Macho lower class culture causes crime
