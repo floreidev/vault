@@ -404,5 +404,21 @@ mindmap
 > Education failure - Pitts (2008) suggests that young men find respect in gangs and in street culture (status frustration)
 > Style and resistance - Echoes CCCS which suggests that gang related activity resis at times ofe conomic stress. (skinheads) BUT AO3 EMA & FSM & Scholarships allow lower privellege children to counterract economic pressure.
 
+### The Underclass
+> Murray scapegoated single mothers and 'the underclass' (those under the working clas) as the cause of crime (links to status frustration)
 
-
+## Status Frustration
+%% TODO: Summarise notes %%
+> Delinquent a young person who has a tendencies to commit more crime
+> Strain theory the pressure people face which leads them to commit crime
+> Working class boys hold the same success goals but cannot reach them.
+> Educational failure and poor employment prospects lead to feelings of failure and inadequecies
+> Cultural deprevation results in working class lack of educational success
+> Status frustation is the sense of frustration arising of groups or people due to their lack of status in society.
+> Paul WIllis found similar results in learning to labour
+> Working class students will react to typical failure by breaking rules and being deviant
+> Reaction formation -- when young people reject norms and values of wider society, and instead turn to other, delinquent norms and values
+> Respect is gained through delinquent acts instead of economic success in wider society.
+> Cohen -- Social class, status frustration, cultural deprevation cause delinquency
+> Marxists argue that they do not share the same success goals and it cannot be assumed that they do.
+> Macho lower class culture causes crime
