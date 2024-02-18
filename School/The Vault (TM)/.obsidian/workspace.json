@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7fefc8c6706d7d82",
+        "id": "0b42c43735f33ff8",
         "type": "tabs",
         "children": [
           {
-            "id": "ead6e07771cec2af",
+            "id": "928393682ed8ccca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/Hyperpop - How Did We Get Here.md",
+                "file": "To what extent are youths deviant.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "52b96043fc170e6d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "a3c.jpg"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/Hyperpop - How Did We Get Here.md",
+                "file": "To what extent are youths deviant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/Hyperpop - How Did We Get Here.md",
+                "file": "To what extent are youths deviant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/Hyperpop - How Did We Get Here.md"
+                "file": "To what extent are youths deviant.md"
               }
             }
           },
@@ -156,36 +166,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ead6e07771cec2af",
+  "active": "928393682ed8ccca",
   "lastOpenFiles": [
+    "School/English/In Cold Blood Notes.md",
+    "School/Computer Science/In-Class Notes/07Feb.md",
+    "Essays/Radicalisation.md",
+    "Essays/Nation and Union.md",
+    "Essays/Leftist Unity.md",
+    "School/Sociology/Marxism Essay.md",
+    "School/Sociology/In-Class Notes/Ordinary Youth, Marxism.md",
+    "a3c.jpg",
+    "To what extent are youths deviant.md",
+    "School/Sociology/Summary Notes/Education.md",
+    "School/Sociology/Summary Notes/Marxism.md",
+    "School/Sociology/Summary Notes/Research Methods.md",
+    "School/Sociology/Summary Notes/Socialisation.md",
+    "School/Sociology/Summary Notes/Interactionism.md",
+    "School/Sociology/Summary Notes/Post-Modernism.md",
+    "School/Sociology/Summary Notes/Feminism.md",
+    "School/Sociology/Summary Notes/Youth Culture.md",
     "Essays/Hyperpop - How Did We Get Here.md",
     "Essays",
-    "School/Sociology/Summary Notes/Education.md",
     "School/Sociology/Summary Notes/Functionalism.md",
-    "School/Sociology/Summary Notes/Marxism.md",
-    "School/Sociology/Summary Notes/Interactionism.md",
-    "School/Sociology/Summary Notes/Youth Culture.md",
     "School/Sociology/Question Prep/Youth Cultures Question Prep.md",
-    "School/Sociology/Marxism Essay.md",
-    "School/Sociology/Summary Notes/Research Methods.md",
     "School/English/Summary Notes/In Cold Blood.md",
     "School/Sociology/In-Class Notes/2023-12-04.md",
     "School/Sociology/In-Class Notes/2023-11-29 122000.md",
-    "School/Sociology/In-Class Notes/Ordinary Youth, Marxism.md",
     "Feminism.md",
-    "School/Sociology/Summary Notes/Post-Modernism.md",
     "Leftism as a Process.md",
-    "School/Sociology/Summary Notes/Socialisation.md",
     "Parts of the horror thing.md",
     "Personal Poetry.md",
-    "Spotted Isles.md",
     "Saltworth.jpg",
     "Saltworth (Player's Version).jpg",
-    "School/English/Summary Notes/Types of Poetry.md",
-    "School/English/Summary Notes/Poetry Anthology.md",
-    "School/Sociology/In-Class Notes/Neo Tribes.md",
-    "School/Film Studies/Essay/Essay 002.md",
-    "School/Film Studies/In-Class Notes/Cpt. Fanastic 2023-12-05.md",
     "School/Film Studies/Essay",
     "School",
     "School/Computer Science/Summary Notes",
