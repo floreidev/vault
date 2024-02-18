@@ -112,7 +112,103 @@ flowchart
 
 > [!tip] The Internet -- The Internet is a world-wide communications infrastructure. A network of networks.
 
+# Topic 2
+## Logical Operations
+
+# Topic 3
+## Data Transmission
+
+> [!tip]- Types of Transmission
+> Serial Transmission - Transmit one bit at a time (using one cable, long distance)
+> Parallel Transmission - Transmit multiple bits at a time (using multiple cables, short distance)
+
+> [!tip]- Multiplexing & Switching
+> Multiplexing - The process of combining and transmitting multiple signals over a communications link at the same time as a single, complex signal.
+> Switching - Directing a signal or data packet towards a specified hardware destination.
+
+> [!tip]- Packets
+> Data Packet - A formatted unit of data that is transmitted over a packet switching network.
+> Protocol - [[#Topic 1##1.4 Internet and Networking]]
+> Routing - THe method of selecting a path along which packets will travel.
+
+> [!tip]- Transmission Nodes
+> Simplex - One direction (A --> B)
+> Half-Duplex - Both Directions, not at the same time (A --> B, B --> A)
+> Full-Duplex - Both Directions, at the same time (A <--> B)
+
+### OSI Layers
+ - Physical Layer 	-- Connectivity Protocols e.g Bluetooth
+ - Data-Link Layer	-- Relate IP addresses to MAC addresses of specific devices
+ - Network Layer	-- Transfer of data following the IP protocol
+ - Transport Layer	-- Transfer data using UDP and TCP
+ - Session Layer	-- Follows node to node communications sessions
+ - Presentation Layer	-- Makes data to be readable
+ - Application Layer	-- Services including FTP, HTTP and SMTP
+
+```mermaid
+flowchart TD
+    subgraph Packet
+    direction LR
+    subgraph Header
+    a(Sender IP)
+    b(Reciever IP)
+    c(Protocol)
+    d(Packet Number)
+    end
+    subgraph Payload
+    e(Data)
+    end
+    subgraph Trailer
+    f(Checksum)
+    g(End-of-packet signifier)
+    end
+    end
+```
+
+
+# Topic 4
+## Data Representation
+
+# Topic 5
+## Data Structures
+
+# Topic 6
+## Organisation of Data
+
+# Topic 7
+## Database Systems
+
 # Topic 8
-## The Operating System.
+## The Operating System
 
 
+# Topic 9
+## Algorithms and Programs
+
+# Topic 10
+## Principles of Programming
+
+# Topic 11
+## Systems Analysis
+
+> [!tip] Key Terminology
+> Feasibility - Is the project likely to be successful
+> Investigation & Analysis -
+
+# Topic 12
+## Software Engineering
+
+# Topic 13
+## Program Construction
+
+# Topic 14
+## The need for different types of software and their attributes
+
+# Topic 15
+## Practical programming
+
+# Topic 16
+## Data Security
+
+# Topic 17
+## External/Ethical Factors on computing 

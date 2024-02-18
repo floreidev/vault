@@ -381,7 +381,7 @@ mindmap
 > More crime in cities -- concentrated areas of poverty & deprevation (status frustration).
 > Social disogranisation and local norms value crime -- underclass (Murray)
 
-> [!tip] Miller (1958)
+> [!tip]- Miller (1958)
 > Focal concerns were 'staying out of trouble', crime caused norms and values held by young men (Malestream view)
 > Teddyboys valued being witty and aggressive
 > Thrillseeking (edgework)
