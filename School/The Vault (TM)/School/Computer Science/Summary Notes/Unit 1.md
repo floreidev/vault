@@ -204,6 +204,12 @@ flowchart TD
 # Topic 14
 ## The need for different types of software and their attributes
 
+### The Computer Misuse Act (1990)
+> Dissalows access of computer systems without permission e.g guessing someone's password.
+
+### CAD & CAM
+> Computer aided design & manafacturing.
+
 # Topic 15
 ## Practical programming
 
