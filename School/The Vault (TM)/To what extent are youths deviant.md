@@ -17,3 +17,8 @@
 	- AO3 > BUT deviance amplification spiral could mean its getting worse anyway
 - conclude it mf
 	- erm! i think due to the capitalist system YAP YAP YAP pay to be deviant YAP YAP YAP kids and they damn phones
+
+
+
+
+
