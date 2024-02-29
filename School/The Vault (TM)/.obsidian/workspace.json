@@ -8,12 +8,72 @@
         "type": "tabs",
         "children": [
           {
+            "id": "564eb82fe9045e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "928393682ed8ccca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Essays/Transmisogyny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b859a98cb7f6c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/Leftist Unity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7ace250d5fca2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/Radicalisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "181a5eacdb331c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/Nation and Union.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdf3f4f40358120b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/Hyperpop - How Did We Get Here.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/Transmisogyny.md",
+                "file": "Essays/Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/Transmisogyny.md",
+                "file": "Essays/Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/Transmisogyny.md"
+                "file": "Essays/Curriculum.md"
               }
             }
           },
@@ -156,13 +216,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "928393682ed8ccca",
+  "active": "564eb82fe9045e2f",
   "lastOpenFiles": [
+    "Essays/Transmisogyny.md",
+    "Essays/Curriculum.md",
+    "Essays/Hyperpop - How Did We Get Here.md",
     "Essays/Nation and Union.md",
     "Essays/Radicalisation.md",
     "Essays/Leftist Unity.md",
-    "Essays/Hyperpop - How Did We Get Here.md",
-    "Essays/Transmisogyny.md",
     "School/English/Summary Notes/Poetry Anthology.md",
     "a3c.jpg",
     "To what extent are youths deviant.md",
@@ -187,7 +248,6 @@
     "School/English/Summary Notes/In Cold Blood.md",
     "School/Sociology/In-Class Notes/2023-12-04.md",
     "Feminism.md",
-    "Leftism as a Process.md",
     "Saltworth.jpg",
     "School/Film Studies/Essay",
     "School",

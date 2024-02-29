@@ -1,0 +1,16 @@
+blockquote > p::before, 
+blockquote > p::after, 
+.cm-quote:has(:not(.cm-transparent))::before, 
+.cm-quote:has(:not(.cm-transparent))::after {
+	content: "\"";
+	font-size: x-large;
+	font-family: "Times New Roman", serif;
+}
+
+.cm-quote:has(:not(.cm-transparent))::before, blockquote > p::before {
+	content: "“";
+}
+
+.cm-quote:has(:not(.cm-transparent))::after, blockquote > p::after {
+	content: "”";
+}

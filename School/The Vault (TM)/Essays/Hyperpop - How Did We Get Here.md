@@ -1,5 +1,5 @@
 
-# Hyperpop: How the *car noises* *crash noises* *fart noises* *repeated drum loop* *rewind noise* did we get here?
+# Hyperpop: How the *car noises* *crash noises* *fart noises* *repeated drum loop* *rewind noise YEOOOWCH* did we get here?
 
 Hyperpop is a music genre characterised by it's diabetic interpretation of pop; through the use of extreme auto-tune and pitch shift, over-sampling, obnoxious use of effects and highly-electronic composition, it takes aspects and phenomena seen in current popular music and takes it to the extreme. The earliest instances of hyperpop are often attributed to the late great SOPHIE, who, with her single BIPP, found success through this exaggerated style. 
 $\quad$ If we look at the origins of the term 'hyperpop', things become harder to trace back.  The first use of it to describe a type of music was in a 1988 article, however it is difficult to relate that back to what we today call hyperpop. Alongside this article, some of the more relevant usages come from the early days of soundcloud and last.fm, where the title 'hyperpop' was often attributed to popular nightcore music on the respective platforms. 
