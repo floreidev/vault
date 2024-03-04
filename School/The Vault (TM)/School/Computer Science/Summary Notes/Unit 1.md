@@ -175,8 +175,19 @@ flowchart TD
 # Topic 6
 ## Organisation of Data
 
+
 # Topic 7
 ## Database Systems
+- Serial files must be put in KSQ order when adding to a sequential file.
+
+```mermaid
+flowchart
+	a(Master File 1 - Grandmother)-->b[Update]
+	aa(Transaction File)-->b-->cc
+	bb(Transaction File)-->c[Update]
+    cc(Master File 2  - Mother)-->c
+    c-->d(Master File 3 - Daughter)
+```
 
 # Topic 8
 ## The Operating System
