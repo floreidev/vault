@@ -218,5 +218,14 @@ subgraph "Negative Labelling"
 
 
 
-# Feminism
+# Feminism & Gender
 #feminism 
+
+## Gender and External Influences
+*External Influences are influences **outside the purview** of the education system*
+
+> [!tip]- Feminism
+> More female role models targeted towards education in wider society has had a significant influence on education
+> Feminism has caused women to aspire more toward education. *Sharpe, 1976, 1994*
+
+> [!tip]- Employment
