@@ -168,6 +168,48 @@ flowchart TD
 
 # Topic 4
 ## Data Representation
+### Pure Binary
+Bits are in order of 2^n where n is the bit place
+| 8 | 4 | 2 | 1 |
+|---|---|---|---|
+| 1 | 1 | 0 | 0 |
+= 12
+
+### Hexadecimal
+a-f are equal to 10-15 respectively
+| 16 | 1  |
+|----|----|
+| a  | 3  |
+= 163
+
+### Two's Complement
+"Flipping the bits". If the first bit is on, the number is negative and to figure out the pure binary representation you must flip every bit. You **KEEP UP TO AND INCLUDING THE FIRST ENABLED BIT THE SAME**
+
+1110 --> 0010 --> 2
+1110 Is -2
+
+### Sign and Magnitude
+The first bit in sign and magnitude represents the negative; if enabled, the number is negated
+1110 --> 0110 --> 6
+0110 Is -6
+
+### Fixed Point
+The binary point is inserted at a **fixed point** in the number. Numbers will continue to go 2^n where n is the place, but go negative
+| 4 | 2 | 1 | 1/2 | 1/4 |
+|---|---|---|---|---|
+| 1 | 0 | 1 | 1 | 0|
+= 5.5
+
+### Floating Point
+The binary point is inserted at a **moving point** in the number. A certain number of bits will represent the **mantissa**, a certain number of bits will represent the **exponent** for example, a 4 bit mantissa, 4 bit exponent will look like this:
+
+|0. | 1/2 | 1/4 | 1/8 | 1/16 | 8 | 4 | 2 | 1 | 
+|---|---|---|---|---|---|---|---|---|
+|0. | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
+i forgor how to do it lol
+
+### ASCII & Unicode
+ASCII and Unicode are standardised ways of representing text
 
 # Topic 5
 ## Data Structures
@@ -192,6 +234,34 @@ flowchart
 # Topic 8
 ## The Operating System
 
+> [!tip]- Peripherals
+> With code written in machine code, each peripheral will have its own protocol for the tranismission of data to and from the computer.
+
+> [!tip]- Proccesses
+> An OS will schedule and queue tasks in order to make full use of the CPU and maximize resource distribution.
+
+> [!tip]- Memory Protection
+> An OS will make sure that programs have the correct access rights for memory in order to stop unwanted read/writes to memory.
+
+> [!tip]- Resource Management
+> An operating system will manage and distribute resources effectively by assigning CPU cores etc.
+
+> [!tip]- User Interface
+> An OS will provide a user interface so that inputting/outputting of data is clear and legible.
+
+### Utility Software
+ - Antivirus
+ - Clipboard
+ - Backup
+ - Disk Checker (Corruption Detection)
+ - Disk Compression
+ - Disk Defragmentation
+ - Disk Formatting
+ - Disk Partion Editing
+ - Archivers
+ - Cryptographic Utilities
+ - Revision Control
+ - File Managers
 
 # Topic 9
 ## Algorithms and Programs
@@ -202,9 +272,26 @@ flowchart
 # Topic 11
 ## Systems Analysis
 
-> [!tip] Key Terminology
-> Feasibility - Is the project likely to be successful
-> Investigation & Analysis -
+> [!tip]- Feasability Study
+> A feasability study will be carried out on the system to see if it matches TELOS criteria
+> TELOS = Techonological, Ethical, Legal, Operational, Scheduling
+
+> [!tip]- Investigations Analysis
+> This involves gathering data about the system and the problem at hand; can be done by consulting current docs, questionnaire for stuaff or interviewing staff, observing, or looking at similar existing systems
+
+> [!tip]- Input/Output, Design, Access
+> I/Os should be decided, for example what data types will be allowed? Designs should be agreed upon and prototyped, access control should be decided upon.
+
+> [!tip]- Testing
+> A test strategy will be put into place to decide how the system will be tested
+> A test plan will be thought out to decide the intended purpose of the tests
+> Refinement should be done after the fact.
+> Types of test data
+>  - Typical
+>  - Erroneous
+>  - Extreme
+
+### Maintenance
 
 # Topic 12
 ## Software Engineering
@@ -220,6 +307,9 @@ flowchart
 
 ### CAD & CAM
 > Computer aided design & manafacturing.
+
+### Expert Systems
+
 
 # Topic 15
 ## Practical programming
