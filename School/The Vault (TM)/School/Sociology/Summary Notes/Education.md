@@ -229,3 +229,12 @@ subgraph "Negative Labelling"
 > Feminism has caused women to aspire more toward education. *Sharpe, 1976, 1994*
 
 > [!tip]- Employment
+
+# Social Class
+## Internal Factors
+
+## External Factors
+### Material Deprevation
+> Leonard Feinstein (2003) - Test scores at 22 months could predict educational attainment at 26 years. High attaining poor children were overtaken by low attaining rich children.
+
+ 
