@@ -17,7 +17,7 @@ aliases:
 | Theory |Belief |
 |--------|---------|
 | [[Functionalism\|Functionalists]] | Believe everything has a **<u>function</u>**, and everything should remain as-is. \[*Typically conservatives, capitalists*\]|
-| [[Marxism\|Marxists]] | Believe in Marx’s theories of value, economics and social class & society. \[*Typically progressivists, leftists*\]|
+| [[Marxism\|Marxists]] | Believe in Marx’s theories of value, economics and social class & society. \[*Typically progressives, leftists*\]|
 | [[Interactionism\|Interactionists]] | Micro-sociologists, focus on the inter-personal interactions and relationships between people e.g. student/teacher. |
 | [[Feminism\|Feminists]] | (Typically 2nd+ Wave) Believe in the destruction and resistance against patriarchy, for a society equal to all genders.  |
 | [[Post-Modernism\|Post-modernists]] | Focus on the belief that there is no objective reality, the struggles of living in the postmodern society |
