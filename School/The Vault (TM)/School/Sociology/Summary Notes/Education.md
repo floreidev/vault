@@ -221,7 +221,7 @@ subgraph "Negative Labelling"
 # Feminism & Gender
 #feminism 
 
-## Gender and External Influences
+## External Influences
 *External Influences are influences **outside the purview** of the education system*
 
 > [!tip]- Feminism
@@ -229,6 +229,8 @@ subgraph "Negative Labelling"
 > Feminism has caused women to aspire more toward education. *Sharpe, 1976, 1994*
 
 > [!tip]- Employment
+> Women are more able to get jobs now and so are working towards getting a job more often than previously
+> High levels of employment require more education.
 
 # Social Class
 ## Internal Factors
