@@ -239,4 +239,43 @@ subgraph "Negative Labelling"
 ### Material Deprevation
 > Leonard Feinstein (2003) - Test scores at 22 months could predict educational attainment at 26 years. High attaining poor children were overtaken by low attaining rich children.
 
- 
+### Cultural Deprevation
+Working class culture is *inferior* and are deprived of culture that middle-class students will get.
+
+> [!tip]- Sugarman 1970
+> Argues that working-class subculture has four key features that act as a barrier to educational achievement
+> - Fatalism
+> - Collectivism
+> - Immediate Gratification
+> - Present-Time Orientation
+
+> [!tip]- Engelmann
+> The language spoken by low-income black American families as inadequate for educational success
+
+ - Working class parents may show a lack of interest in their children's education
+ - Lower class parents are less able to help their children with homework 
+ - Lower class children are more likely to have a 'restricted speech code' (Basil Bernstein)
+ - Working class children are more concerned with immediate gratification (Barry Sugarman) 
+ - The underclass has a higher percentage of single parent families. (Melanie Philips)
+
+### Cultural Differences
+Schools are middle-class and do not understand the cultural differences between themselves and the working class.
+
+> [!tip]- Cultural Capital
+> Workging-class culture is not valued and the middle class have access to knowledge of social systems and structures that give them advantages.
+
+*Most sociologists argue that there are cultural differneces, the arguement comes in when asking the impact and nature of these differences*
+
+#### Functionalists
+The working class are failign due to their lack of interest in the education system, the working class children are culturally *deprived* in life. This view is not sympathetic.
+
+> [!tip]- Norms and Values
+> The culture of the working class has inferior norms and values.
+> They have a fatalistic view of life, which keeps them in poverty (Oscar Lewis, Mexico, 40s/50s)
+> In 2011, Children's Minister Srah Teather announced free parenting classes in areas of high to medium levels of deprivation. Among other things, parents would be taught to provide stimulating learning environments, to eat meals as a family and to insist on proper bedtimes and consisten discipline.
+
+> [!tip]- Labov
+> Language does not limit thought, in spite of Bernstein.
+
+#### Marxists
+The cultural issue is there, however it is all about which social class' culture is valued and which is given power in education. The working class culture is not deprived, but just different and not valued in schools.
