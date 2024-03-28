@@ -4,107 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0b42c43735f33ff8",
+        "id": "466dc6c92b641c38",
         "type": "tabs",
         "children": [
           {
-            "id": "564eb82fe9045e2f",
+            "id": "297b7c1576844e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/Curriculum.md",
+                "file": "School/Sociology/Summary Notes/Youth Culture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a49672de312f622",
+            "id": "7f65956366ec2573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "empty town.md",
+                "file": "List of Sociologists --.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63c2202e6c575975",
+            "id": "974e0833707ab7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "----.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "928393682ed8ccca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essays/Transmisogyny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b859a98cb7f6c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essays/Leftist Unity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7ace250d5fca2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essays/Radicalisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "181a5eacdb331c25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essays/Nation and Union.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdf3f4f40358120b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essays/Hyperpop - How Did We Get Here.md",
+                "file": "School/Sociology/Summary Notes/Education.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "empty town.md",
+                "file": "School/Sociology/Summary Notes/Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "empty town.md",
+                "file": "School/Sociology/Summary Notes/Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "empty town.md"
+                "file": "School/Sociology/Summary Notes/Education.md"
               }
             }
           },
@@ -241,16 +181,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a49672de312f622",
+  "active": "974e0833707ab7f5",
   "lastOpenFiles": [
-    "----.md",
-    "empty town.md",
-    "Essays/Curriculum.md",
-    "Essays/Transmisogyny.md",
+    "School/Sociology/In-Class Notes/revision session.md",
+    "Essays/Twitter and Frens.md",
+    "Essays/My FAV Albums.md",
+    "Essays/art.md",
+    "List of Sociologists --.md",
+    "Flashcards.md",
+    "Saltworth.jpg",
+    "School/Sociology/Summary Notes/Youth Culture.md",
+    "School/Sociology/Summary Notes/Education.md",
     "Essays/Hyperpop - How Did We Get Here.md",
     "Essays/Nation and Union.md",
     "Essays/Radicalisation.md",
     "Essays/Leftist Unity.md",
+    "Essays/Transmisogyny.md",
+    "----.md",
+    "Essays/Curriculum.md",
+    "empty town.md",
     "School/English/Summary Notes/Poetry Anthology.md",
     "a3c.jpg",
     "To what extent are youths deviant.md",
@@ -261,19 +210,10 @@
     "School/Sociology/In-Class Notes/2023-11-29 122000.md",
     "Saltworth (Player's Version).jpg",
     "School/Sociology/Marxism Essay.md",
-    "School/Sociology/Summary Notes/Education.md",
     "School/Sociology/Summary Notes/Marxism.md",
     "School/Sociology/Summary Notes/Research Methods.md",
     "School/Sociology/Summary Notes/Socialisation.md",
-    "School/Sociology/Summary Notes/Interactionism.md",
-    "School/Sociology/Summary Notes/Post-Modernism.md",
-    "School/Sociology/Summary Notes/Feminism.md",
-    "School/Sociology/Summary Notes/Youth Culture.md",
     "Essays",
-    "School/Sociology/Summary Notes/Functionalism.md",
-    "School/Sociology/Question Prep/Youth Cultures Question Prep.md",
-    "School/English/Summary Notes/In Cold Blood.md",
-    "Saltworth.jpg",
     "School/Film Studies/Essay",
     "School",
     "School/Computer Science/Summary Notes",
